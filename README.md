@@ -1,8 +1,6 @@
 # 🧮 Calculator App
 
-A beautiful, responsive calculator built with HTML, CSS, and JavaScript with scientific functions.
-
-![Calculator Screenshot](https://via.placeholder.com/400x250/3498db/ffffff?text=Calculator+Screenshot)
+A beautiful, responsive calculator built with HTML, CSS, and JavaScript with scientific function.
 
 ## ✨ Features
 
@@ -26,8 +24,7 @@ A beautiful, responsive calculator built with HTML, CSS, and JavaScript with sci
 
 ## 🚀 Usage
 
-### Online Demo
-Open [index.html](index.html) in any modern browser.
+
 
 ### Keyboard Shortcuts
 | Key | Function |
