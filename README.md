@@ -46,4 +46,3 @@ A beautiful, responsive calculator built with HTML, CSS, and JavaScript with sci
 - **JavaScript (ES6)** - Logic and interactivity
 - **GitHub** - Version control
 
-## 📁 Project Structure
